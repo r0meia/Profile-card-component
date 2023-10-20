@@ -45,6 +45,7 @@ body {
 }
 h1 {
     font-size: 25px;
+    color: hsl(229, 23%, 23%);
 }
 p {
     margin-top: 10px;
