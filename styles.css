@@ -66,3 +66,7 @@ span {
     margin-top: 25px;
     text-align: center;
 }
+
+h2 {
+    color: hsl(229, 23%, 23%);
+}
